@@ -1,0 +1,135 @@
+formatVersion = 1
+name = "BetterRPGFantasy Modpack"
+author = "Fedha99"
+version = "1.0.0"
+description = "A custom RPG-Adventure modpack with dragons, leveling systems, and optimized for low-end devices"
+pack-format = "packwiz:1.1.0"
+
+[versions]
+minecraft = "1.20.1"
+forge = "47.2.0"
+
+[[mods]]
+name = "Create"
+filename = "create-1.20.1-6.0.8.jar"
+download = "https://cdn.modrinth.com/data/KzS9oHnP/versions/dGzczvCh/create-1.20.1-6.0.8.jar"
+
+[[mods]]
+name = "Iron's Spellbooks"
+filename = "irons_spellbooks-1.20.1-3.16.3.jar"
+download = "https://cdn.modrinth.com/data/f6pHJgqZ/versions/UhV9c0aG/irons_spellbooks-1.20.1-3.16.3.jar"
+
+[[mods]]
+name = "Ender's Cataclysm"
+filename = "L_Enders_Cataclysm-3.16.jar"
+download = "https://cdn.modrinth.com/data/K1jzHbJm/versions/7hf7vZEp/L_Enders_Cataclysm-3.16.jar"
+
+[[mods]]
+name = "Passive Skill Tree"
+filename = "PassiveSkillTree-1.20.1-BETA-0.6.14a-all.jar"
+download = "https://cdn.modrinth.com/data/3bKHTfV3/versions/qf9aaOQ5/PassiveSkillTree-1.20.1-BETA-0.6.14a-all.jar"
+
+[[mods]]
+name = "Alex's Caves"
+filename = "alexscaves-2.0.2.jar"
+download = "https://cdn.modrinth.com/data/gv7GxjA9/versions/I6Xpx7Jh/alexscaves-2.0.2.jar"
+
+[[mods]]
+name = "Alex's Mobs"
+filename = "alexsmobs-1.22.9.jar"
+download = "https://cdn.modrinth.com/data/cNvIcHuJ/versions/jDDZvFfm/alexsmobs-1.22.9.jar"
+
+[[mods]]
+name = "Mowzie's Mobs"
+filename = "mowziesmobs-1.6.5.jar"
+download = "https://cdn.modrinth.com/data/fAuIYDYs/versions/jBZdXqnB/mowziesmobs-1.6.5.jar"
+
+[[mods]]
+name = "Ice and Fire"
+filename = "iceandfire-2.1.13-1.20.1-beta-5.jar"
+download = "https://cdn.modrinth.com/data/jjW9yVSB/versions/p5ZcsZcV/iceandfire-2.1.13-1.20.1-beta-5.jar"
+
+[[mods]]
+name = "Better Combat"
+filename = "bettercombat-forge-1.9.0+1.20.1.jar"
+download = "https://cdn.modrinth.com/data/tD7wVYEe/versions/mNTVtvKS/bettercombat-forge-1.9.0+1.20.1.jar"
+
+[[mods]]
+name = "Epic Fight Mod"
+filename = "epic-fight-20.14.17-mc1.20.1-forge.jar"
+download = "https://cdn.modrinth.com/data/L6HT5oaq/versions/L9OkKWMF/epic-fight-20.14.17-mc1.20.1-forge.jar"
+
+[[mods]]
+name = "Enchanting Infuser"
+filename = "EnchantingInfuser-v8.0.3-1.20.1-Forge.jar"
+download = "https://cdn.modrinth.com/data/Jmxf4qIZ/versions/N4y4bQpA/EnchantingInfuser-v8.0.3-1.20.1-Forge.jar"
+
+[[mods]]
+name = "Apotheosis"
+filename = "Apotheosis-1.20.1-7.4.8.jar"
+download = "https://cdn.modrinth.com/data/nxF0yHye/versions/PvqyQMV3/Apotheosis-1.20.1-7.4.8.jar"
+
+[[mods]]
+name = "JEI"
+filename = "jei-1.20.1-forge-15.20.0.113.jar"
+download = "https://cdn.modrinth.com/data/u6dRKJwZ/versions/x5wkKMZa/jei-1.20.1-forge-15.20.0.113.jar"
+
+[[mods]]
+name = "Waystones"
+filename = "waystones-forge-1.20.1-14.1.17.jar"
+download = "https://cdn.modrinth.com/data/LppZKxOn/versions/sHpnT0d8/waystones-forge-1.20.1-14.1.17.jar"
+
+[[mods]]
+name = "Sophisticated Backpacks"
+filename = "sophisticatedbackpacks-1.20.1-3.24.6.1366.jar"
+download = "https://cdn.modrinth.com/data/C0ZsUtKL/versions/xJ8Xs3ew/sophisticatedbackpacks-1.20.1-3.24.6.1366.jar"
+
+[[mods]]
+name = "Jade"
+filename = "Jade-1.20.1-Forge-11.13.2.jar"
+download = "https://cdn.modrinth.com/data/t23bwSKL/versions/uu7hVvgB/Jade-1.20.1-Forge-11.13.2.jar"
+
+[[mods]]
+name = "Embeddium"
+filename = "embeddium-0.3.31+mc1.20.1.jar"
+download = "https://cdn.modrinth.com/data/sg6833QG/versions/SWPGRX9k/embeddium-0.3.31+mc1.20.1.jar"
+
+[[mods]]
+name = "FerriteCore"
+filename = "ferritecore-6.0.1-forge.jar"
+download = "https://cdn.modrinth.com/data/uXXizFIs/versions/E6b4gLJL/ferritecore-6.0.1-forge.jar"
+
+[[mods]]
+name = "Starlight"
+filename = "starlight-1.1.2+forge.1cda73c.jar"
+download = "https://cdn.modrinth.com/data/H8CaAYIt/versions/PvN99Zf8/starlight-1.1.2+forge.1cda73c.jar"
+
+[[mods]]
+name = "Noisium"
+filename = "noisium-forge-2.3.0+mc1.20-1.20.1.jar"
+download = "https://cdn.modrinth.com/data/DQywTnqQ/versions/RChGDVr8/noisium-forge-2.3.0+mc1.20-1.20.1.jar"
+
+[[mods]]
+name = "ImmediatelyFast"
+filename = "ImmediatelyFast-Forge-1.5.2+1.20.4.jar"
+download = "https://cdn.modrinth.com/data/5ZwdcRci/versions/SHJHqQWF/ImmediatelyFast-Forge-1.5.2+1.20.4.jar"
+
+[[mods]]
+name = "Clumps"
+filename = "Clumps-forge-1.20.1-12.0.0.4.jar"
+download = "https://cdn.modrinth.com/data/OHvjd3qB/versions/w6u0cVma/Clumps-forge-1.20.1-12.0.0.4.jar"
+
+[[mods]]
+name = "Entity Culling"
+filename = "entityculling-forge-1.8.2-mc1.20.1.jar"
+download = "https://cdn.modrinth.com/data/NNAgCjsB/versions/EvkIo0lF/entityculling-forge-1.8.2-mc1.20.1.jar"
+
+[[mods]]
+name = "Curios API"
+filename = "curios-forge-5.14.1+1.20.1.jar"
+download = "https://cdn.modrinth.com/data/2M01OL34/versions/4XSNEh8N/curios-forge-5.14.1+1.20.1.jar"
+
+[[mods]]
+name = "Architectury API"
+filename = "architectury-9.2.14-forge.jar"
+download = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/E3gC6Ggb/architectury-9.2.14-forge.jar"
